@@ -1,0 +1,15 @@
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\obj\Debug\net6.0\Example004.csproj.AssemblyReference.cache
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\obj\Debug\net6.0\Example004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\obj\Debug\net6.0\Example004.AssemblyInfoInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\obj\Debug\net6.0\Example004.AssemblyInfo.cs
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\obj\Debug\net6.0\Example004.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\bin\Debug\net6.0\Example004.exe
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\bin\Debug\net6.0\Example004.deps.json
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\bin\Debug\net6.0\Example004.runtimeconfig.json
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\bin\Debug\net6.0\Example004.dll
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\bin\Debug\net6.0\Example004.pdb
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\obj\Debug\net6.0\Example004.dll
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\obj\Debug\net6.0\refint\Example004.dll
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\obj\Debug\net6.0\Example004.pdb
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\obj\Debug\net6.0\Example004.genruntimeconfig.cache
+C:\Users\1\OneDrive\Рабочий стол\GeekBrains\Дз\C#\HomeWork_1\Example\Example004\obj\Debug\net6.0\ref\Example004.dll
